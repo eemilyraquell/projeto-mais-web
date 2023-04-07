@@ -1,2 +1,2 @@
 # projeto-mais-web
-HTML e CSS
+Projeto da Aula de Front-End (Atividade avaliativa)
